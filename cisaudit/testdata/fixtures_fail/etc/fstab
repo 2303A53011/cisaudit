@@ -1,0 +1,4 @@
+# /etc/fstab — deliberately misconfigured for FAIL fixture
+# /tmp is NOT a separate partition, /var/tmp has no security options
+UUID=abc123  /        ext4  defaults   0 1
+UUID=def456  /home    ext4  defaults   0 2

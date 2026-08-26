@@ -1,0 +1,2 @@
+set superusers="root"
+password_pbkdf2 root grub.pbkdf2.sha512.10000.AABBCC
