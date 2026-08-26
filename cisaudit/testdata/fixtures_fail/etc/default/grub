@@ -1,0 +1,4 @@
+# GRUB config with NO AppArmor parameters and NO bootloader password
+GRUB_CMDLINE_LINUX="quiet splash"
+GRUB_DEFAULT=0
+GRUB_TIMEOUT=5
