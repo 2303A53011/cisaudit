@@ -1,4 +1,0 @@
-# /etc/fstab
-UUID=abc123 /           ext4  defaults             0 1
-tmpfs       /tmp        tmpfs nosuid,nodev,noexec   0 0
-tmpfs       /var/tmp    tmpfs nosuid,nodev,noexec   0 0

@@ -1,2 +1,0 @@
-# Empty modprobe.d — NO modules blocked
-# cramfs, squashfs, udf are all loadable — FAIL for 1.1.1.x controls
